@@ -1,6 +1,6 @@
 # MobSF-MCP 
 
-Architecture based on [https://github.com/zinja-coder/apktool-mcp-server](https://github.com/GH05TCREW/mobsf-mcp)
+Architecture based on [https://github.com/GH05TCREW/mobsf-mcp](https://github.com/GH05TCREW/mobsf-mcp)
 
 ## 📑 Overview
 
