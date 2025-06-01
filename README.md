@@ -18,7 +18,7 @@ MobSF MCP is a Node.js-based Model Context Protocol implementation for Mobile Se
 Clone the repository or navigate to the mobsf-mcp directory, and install dependencies:
 
 ```bash
-npm install -g MobSF-MCP
+npm install -g mobsf-mcp
 ```
 
 Configure environment variables and start the MobSF MCP server by using the npx command:
@@ -27,7 +27,7 @@ Configure environment variables and start the MobSF MCP server by using the npx 
 ```bash
 $env:MOBSF_URL="http://localhost:8000"; 
 $env:MOBSF_API_KEY="your_api_key_here"; 
-npx MobSF-MCP
+npx mobsf-mcp
 ```
 
 
